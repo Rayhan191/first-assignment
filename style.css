@@ -1,0 +1,31 @@
+.year {
+    color: 	orange;
+  }
+  .eternal {
+    display: flex;
+  }
+  #war {
+    width: 50wv;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  .new {
+    font-family: 'Libre Baskerville', serif;
+    margin: auto;
+    padding: 5px;
+    border-left: 3px solid coral;
+  }
+  .care {
+    padding: 15px;
+    font-family: 'EB Garamond', serif;
+  }
+  .btn {
+    text-decoration: none;
+    background-image: linear-gradient(orange, #c6c639);
+    padding: 10px 40px;
+    border-radius: 15px;
+    font-size: 20px;
+    color: beige;
+  }
+  
+
